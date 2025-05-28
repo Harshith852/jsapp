@@ -23,7 +23,8 @@ h2{
     font-family: Helvetica, sans-serif;
     font-size: 20px;
     font-weight: bold;
-    color:cornflowerblue;
+    color:chartreuse;
+    border-color: black;
 }
 .container{
     background-color: darkorange;
@@ -34,4 +35,5 @@ h2{
     width: 50%;
     height: 50%;
     text-align: center;
+    border-color: black;
 }
