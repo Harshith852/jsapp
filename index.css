@@ -25,3 +25,11 @@ h2{
     font-weight: bold;
     color:cornflowerblue;
 }
+.container{
+    background-color: darkorange;
+    background-size: cover;
+    margin: auto;
+    border-radius: 5px;
+    padding: 20px;
+    text-align: center;
+}
